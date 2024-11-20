@@ -1,7 +1,6 @@
 package app.c14210290.latihandaftarpekerjaan
 
 import android.content.Intent
-import android.content.intent_Nambahpekerjaaan
 import android.os.Bundle
 import android.widget.ImageView
 import androidx.activity.enableEdgeToEdge
